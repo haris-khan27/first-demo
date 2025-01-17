@@ -1,3 +1,4 @@
 # first-demo
-this is my first repo
-author Haris khan
+this is my first repo.
+<br>
+Author Haris khan
